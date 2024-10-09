@@ -19,15 +19,15 @@ NB: This instructions are for windows 10 and above users
 - click it to open. It will look like the picture below
 ![alt text](image.png)
 - Copy and paste the command below and press enter
-'''bash
+```bash
 conda list
-'''
+```
 - If you get the results as shown in the picture below then you have done well
 ![alt text](image-3.png)
 - Copy and paste the command below and press enter. It will take some time so please wait for it to finish.
-'''bash
+```bash
 conda install jupyter ipykernel --yes
-'''
+```
 - Press the windows key and search 'jupyter notebook' and then open it.
 - You should get something similar to the picture below
 ![alt text](image-4.png)
